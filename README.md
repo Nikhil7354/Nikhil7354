@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nikhil7354
 - 👀 I’m interested in a product based company
 - 🌱 I’m currently learning data structure and algorithems
-- 💞️ I’m looking to collaborate on a good programmer
+- 💞️ I’m looking to collaborate on a good product based company
 - 📫 How to reach me by github account
 
 <!---
